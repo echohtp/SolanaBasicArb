@@ -59,6 +59,10 @@ You can modify the bot's behavior by adjusting parameters in the main script fil
 - Minimum profit threshold
 - Polling interval
 
+## Results
+
+<img width="825" alt="image" src="https://github.com/echohtp/SolanaBasicArb/assets/313060/aced5b15-cabb-481e-a2ea-4694c1e44b0a">
+
 ## Disclaimer
 
 This bot is for educational purposes only. Use it at your own risk. Cryptocurrency trading, especially arbitrage, carries significant financial risks.
