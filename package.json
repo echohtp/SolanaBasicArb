@@ -1,0 +1,27 @@
+{
+  "name": "simplearb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jup-ag/api": "^6.0.23",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.7",
+    "@solana/web3.js": "^1.94.0",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "jito-ts": "^4.0.1",
+    "queue": "^7.0.0",
+    "ts": "^0.2.2",
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.4"
+  }
+}
