@@ -11,7 +11,7 @@ This project implements a simple arbitrage bot for the Solana blockchain using N
 ## Prerequisites
 
 - Node.js (v14 or higher recommended)
-- npm (Node Package Manager)
+- yarn (Node Package Manager)
 - A Solana wallet with some SOL for transaction fees
 
 ## Installation
